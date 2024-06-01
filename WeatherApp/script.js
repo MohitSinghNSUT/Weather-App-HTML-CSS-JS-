@@ -10,12 +10,6 @@ const body=document.getElementsByTagName('body');
 
 
 
-body.addEventListener('onkeydown',()=>{
-    console.log();
-})
-
-
-
 img.src="";
 temperature.innerHTML=`0<sup>°C</sup>`;
 description.innerHTML=``
